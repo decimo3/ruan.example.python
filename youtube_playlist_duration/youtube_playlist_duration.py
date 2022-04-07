@@ -1,3 +1,5 @@
+# Não foi possível continuar o projeto devido a limitações de acesso a API do Youtube
+
 import requests
 import dotenv
 
